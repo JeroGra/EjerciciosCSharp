@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "test_Ej_Labo_2_Mascotas/1.0.0": {
+        "dependencies": {
+          "EJERCICIO_INTEGRADOR_LABORATORIO_II_2020": "1.0.0"
+        },
+        "runtime": {
+          "test_Ej_Labo_2_Mascotas.dll": {}
+        }
+      },
+      "EJERCICIO_INTEGRADOR_LABORATORIO_II_2020/1.0.0": {
+        "runtime": {
+          "EJERCICIO_INTEGRADOR_LABORATORIO_II_2020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "test_Ej_Labo_2_Mascotas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EJERCICIO_INTEGRADOR_LABORATORIO_II_2020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

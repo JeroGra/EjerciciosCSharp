@@ -1,0 +1,17 @@
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\test_Ej_Labo_2_Mascotas\bin\Debug\netcoreapp3.1\test_Ej_Labo_2_Mascotas.exe
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\test_Ej_Labo_2_Mascotas\bin\Debug\netcoreapp3.1\test_Ej_Labo_2_Mascotas.deps.json
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\test_Ej_Labo_2_Mascotas\bin\Debug\netcoreapp3.1\test_Ej_Labo_2_Mascotas.runtimeconfig.json
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\test_Ej_Labo_2_Mascotas\bin\Debug\netcoreapp3.1\test_Ej_Labo_2_Mascotas.runtimeconfig.dev.json
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\test_Ej_Labo_2_Mascotas\bin\Debug\netcoreapp3.1\test_Ej_Labo_2_Mascotas.dll
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\test_Ej_Labo_2_Mascotas\bin\Debug\netcoreapp3.1\test_Ej_Labo_2_Mascotas.pdb
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\test_Ej_Labo_2_Mascotas\bin\Debug\netcoreapp3.1\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020.dll
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\test_Ej_Labo_2_Mascotas\bin\Debug\netcoreapp3.1\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020.pdb
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\test_Ej_Labo_2_Mascotas\obj\Debug\netcoreapp3.1\test_Ej_Labo_2_Mascotas.csproj.AssemblyReference.cache
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\test_Ej_Labo_2_Mascotas\obj\Debug\netcoreapp3.1\test_Ej_Labo_2_Mascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\test_Ej_Labo_2_Mascotas\obj\Debug\netcoreapp3.1\test_Ej_Labo_2_Mascotas.AssemblyInfoInputs.cache
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\test_Ej_Labo_2_Mascotas\obj\Debug\netcoreapp3.1\test_Ej_Labo_2_Mascotas.AssemblyInfo.cs
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\test_Ej_Labo_2_Mascotas\obj\Debug\netcoreapp3.1\test_Ej_Labo_2_Mascotas.csproj.CoreCompileInputs.cache
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\test_Ej_Labo_2_Mascotas\obj\Debug\netcoreapp3.1\test_Ej_Labo_2_Mascotas.csproj.CopyComplete
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\test_Ej_Labo_2_Mascotas\obj\Debug\netcoreapp3.1\test_Ej_Labo_2_Mascotas.dll
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\test_Ej_Labo_2_Mascotas\obj\Debug\netcoreapp3.1\test_Ej_Labo_2_Mascotas.pdb
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\test_Ej_Labo_2_Mascotas\obj\Debug\netcoreapp3.1\test_Ej_Labo_2_Mascotas.genruntimeconfig.cache

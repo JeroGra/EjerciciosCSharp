@@ -1,0 +1,16 @@
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\EJ 2_06\bin\Debug\net5.0\EJ 2_06.exe
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\EJ 2_06\bin\Debug\net5.0\EJ 2_06.deps.json
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\EJ 2_06\bin\Debug\net5.0\EJ 2_06.runtimeconfig.json
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\EJ 2_06\bin\Debug\net5.0\EJ 2_06.runtimeconfig.dev.json
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\EJ 2_06\bin\Debug\net5.0\EJ 2_06.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\EJ 2_06\bin\Debug\net5.0\ref\EJ 2_06.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\EJ 2_06\bin\Debug\net5.0\EJ 2_06.pdb
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\EJ 2_06\obj\Debug\net5.0\EJ 2_06.csproj.AssemblyReference.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\EJ 2_06\obj\Debug\net5.0\EJ 2_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\EJ 2_06\obj\Debug\net5.0\EJ 2_06.AssemblyInfoInputs.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\EJ 2_06\obj\Debug\net5.0\EJ 2_06.AssemblyInfo.cs
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\EJ 2_06\obj\Debug\net5.0\EJ 2_06.csproj.CoreCompileInputs.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\EJ 2_06\obj\Debug\net5.0\EJ 2_06.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\EJ 2_06\obj\Debug\net5.0\ref\EJ 2_06.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\EJ 2_06\obj\Debug\net5.0\EJ 2_06.pdb
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\EJ 2_06\obj\Debug\net5.0\EJ 2_06.genruntimeconfig.cache

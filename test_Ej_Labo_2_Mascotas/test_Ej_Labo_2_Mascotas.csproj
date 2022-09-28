@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020.csproj" />
+  </ItemGroup>
+
+</Project>

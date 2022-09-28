@@ -1,0 +1,15 @@
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio 04\bin\Debug\net5.0\ejersicio 04.exe
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio 04\bin\Debug\net5.0\ejersicio 04.deps.json
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio 04\bin\Debug\net5.0\ejersicio 04.runtimeconfig.json
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio 04\bin\Debug\net5.0\ejersicio 04.runtimeconfig.dev.json
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio 04\bin\Debug\net5.0\ejersicio 04.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio 04\bin\Debug\net5.0\ref\ejersicio 04.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio 04\bin\Debug\net5.0\ejersicio 04.pdb
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio 04\obj\Debug\net5.0\ejersicio 04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio 04\obj\Debug\net5.0\ejersicio 04.AssemblyInfoInputs.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio 04\obj\Debug\net5.0\ejersicio 04.AssemblyInfo.cs
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio 04\obj\Debug\net5.0\ejersicio 04.csproj.CoreCompileInputs.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio 04\obj\Debug\net5.0\ejersicio 04.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio 04\obj\Debug\net5.0\ref\ejersicio 04.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio 04\obj\Debug\net5.0\ejersicio 04.pdb
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio 04\obj\Debug\net5.0\ejersicio 04.genruntimeconfig.cache

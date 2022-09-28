@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestBiblioTemperaPaleta/1.0.0": {
+        "dependencies": {
+          "Ej_Tempera": "1.0.0"
+        },
+        "runtime": {
+          "TestBiblioTemperaPaleta.dll": {}
+        }
+      },
+      "Ej_Tempera/1.0.0": {
+        "runtime": {
+          "Ej_Tempera.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestBiblioTemperaPaleta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ej_Tempera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

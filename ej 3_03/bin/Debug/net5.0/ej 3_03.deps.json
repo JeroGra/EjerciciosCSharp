@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ej 3_03/1.0.0": {
+        "dependencies": {
+          "MiBiblioteca": "1.0.0"
+        },
+        "runtime": {
+          "ej 3_03.dll": {}
+        }
+      },
+      "MiBiblioteca/1.0.0": {
+        "runtime": {
+          "MiBiblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ej 3_03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiBiblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020\bin\Debug\netcoreapp3.1\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020.deps.json
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020\bin\Debug\netcoreapp3.1\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020.dll
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020\bin\Debug\netcoreapp3.1\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020.pdb
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020\obj\Debug\netcoreapp3.1\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020.csproj.AssemblyReference.cache
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020\obj\Debug\netcoreapp3.1\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020\obj\Debug\netcoreapp3.1\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020.AssemblyInfoInputs.cache
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020\obj\Debug\netcoreapp3.1\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020.AssemblyInfo.cs
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020\obj\Debug\netcoreapp3.1\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020.csproj.CoreCompileInputs.cache
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020\obj\Debug\netcoreapp3.1\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020.dll
+C:\Users\jerob\source\repos\EjerciciosCSharp-main\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020\obj\Debug\netcoreapp3.1\EJERCICIO_INTEGRADOR_LABORATORIO_II_2020.pdb

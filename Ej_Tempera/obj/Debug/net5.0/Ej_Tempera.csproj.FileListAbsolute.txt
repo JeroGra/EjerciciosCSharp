@@ -1,0 +1,12 @@
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Ej_Tempera\bin\Debug\net5.0\Ej_Tempera.deps.json
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Ej_Tempera\bin\Debug\net5.0\Ej_Tempera.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Ej_Tempera\bin\Debug\net5.0\ref\Ej_Tempera.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Ej_Tempera\bin\Debug\net5.0\Ej_Tempera.pdb
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Ej_Tempera\obj\Debug\net5.0\Ej_Tempera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Ej_Tempera\obj\Debug\net5.0\Ej_Tempera.AssemblyInfoInputs.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Ej_Tempera\obj\Debug\net5.0\Ej_Tempera.AssemblyInfo.cs
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Ej_Tempera\obj\Debug\net5.0\Ej_Tempera.csproj.CoreCompileInputs.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Ej_Tempera\obj\Debug\net5.0\Ej_Tempera.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Ej_Tempera\obj\Debug\net5.0\ref\Ej_Tempera.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Ej_Tempera\obj\Debug\net5.0\Ej_Tempera.pdb
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Ej_Tempera\obj\Debug\net5.0\Ej_Tempera.csproj.AssemblyReference.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ej 3_04/1.0.0": {
+        "dependencies": {
+          "Boligrafo": "1.0.0"
+        },
+        "runtime": {
+          "Ej 3_04.dll": {}
+        }
+      },
+      "Boligrafo/1.0.0": {
+        "runtime": {
+          "Boligrafo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ej 3_04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Boligrafo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

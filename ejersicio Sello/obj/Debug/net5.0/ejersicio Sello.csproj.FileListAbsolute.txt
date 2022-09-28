@@ -1,0 +1,16 @@
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio Sello\bin\Debug\net5.0\ejersicio Sello.exe
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio Sello\bin\Debug\net5.0\ejersicio Sello.deps.json
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio Sello\bin\Debug\net5.0\ejersicio Sello.runtimeconfig.json
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio Sello\bin\Debug\net5.0\ejersicio Sello.runtimeconfig.dev.json
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio Sello\bin\Debug\net5.0\ejersicio Sello.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio Sello\bin\Debug\net5.0\ref\ejersicio Sello.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio Sello\bin\Debug\net5.0\ejersicio Sello.pdb
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio Sello\obj\Debug\net5.0\ejersicio Sello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio Sello\obj\Debug\net5.0\ejersicio Sello.AssemblyInfoInputs.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio Sello\obj\Debug\net5.0\ejersicio Sello.AssemblyInfo.cs
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio Sello\obj\Debug\net5.0\ejersicio Sello.csproj.CoreCompileInputs.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio Sello\obj\Debug\net5.0\ejersicio Sello.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio Sello\obj\Debug\net5.0\ref\ejersicio Sello.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio Sello\obj\Debug\net5.0\ejersicio Sello.pdb
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio Sello\obj\Debug\net5.0\ejersicio Sello.genruntimeconfig.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ejersicio Sello\obj\Debug\net5.0\ejersicio Sello.csproj.AssemblyReference.cache

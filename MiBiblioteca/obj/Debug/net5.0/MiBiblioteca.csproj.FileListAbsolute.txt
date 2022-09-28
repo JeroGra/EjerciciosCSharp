@@ -1,0 +1,12 @@
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\MiBiblioteca\bin\Debug\net5.0\MiBiblioteca.deps.json
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\MiBiblioteca\bin\Debug\net5.0\MiBiblioteca.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\MiBiblioteca\bin\Debug\net5.0\ref\MiBiblioteca.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\MiBiblioteca\bin\Debug\net5.0\MiBiblioteca.pdb
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\MiBiblioteca\obj\Debug\net5.0\MiBiblioteca.csproj.AssemblyReference.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\MiBiblioteca\obj\Debug\net5.0\MiBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\MiBiblioteca\obj\Debug\net5.0\MiBiblioteca.AssemblyInfoInputs.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\MiBiblioteca\obj\Debug\net5.0\MiBiblioteca.AssemblyInfo.cs
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\MiBiblioteca\obj\Debug\net5.0\MiBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\MiBiblioteca\obj\Debug\net5.0\MiBiblioteca.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\MiBiblioteca\obj\Debug\net5.0\ref\MiBiblioteca.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\MiBiblioteca\obj\Debug\net5.0\MiBiblioteca.pdb

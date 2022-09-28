@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Main_sobrecarga_ej/1.0.0": {
+        "dependencies": {
+          "Cosa": "1.0.0"
+        },
+        "runtime": {
+          "Main_sobrecarga_ej.dll": {}
+        }
+      },
+      "Cosa/1.0.0": {
+        "runtime": {
+          "Cosa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Main_sobrecarga_ej/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cosa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

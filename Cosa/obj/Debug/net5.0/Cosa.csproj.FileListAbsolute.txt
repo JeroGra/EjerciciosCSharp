@@ -1,0 +1,12 @@
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Cosa\bin\Debug\net5.0\Cosa.deps.json
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Cosa\bin\Debug\net5.0\Cosa.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Cosa\bin\Debug\net5.0\ref\Cosa.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Cosa\bin\Debug\net5.0\Cosa.pdb
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Cosa\obj\Debug\net5.0\Cosa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Cosa\obj\Debug\net5.0\Cosa.AssemblyInfoInputs.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Cosa\obj\Debug\net5.0\Cosa.AssemblyInfo.cs
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Cosa\obj\Debug\net5.0\Cosa.csproj.CoreCompileInputs.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Cosa\obj\Debug\net5.0\Cosa.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Cosa\obj\Debug\net5.0\ref\Cosa.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Cosa\obj\Debug\net5.0\Cosa.pdb
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\Cosa\obj\Debug\net5.0\Cosa.csproj.AssemblyReference.cache

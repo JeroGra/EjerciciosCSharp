@@ -1,0 +1,16 @@
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ME VOLVI LOCO\bin\Debug\net5.0\ME VOLVI LOCO.exe
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ME VOLVI LOCO\bin\Debug\net5.0\ME VOLVI LOCO.deps.json
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ME VOLVI LOCO\bin\Debug\net5.0\ME VOLVI LOCO.runtimeconfig.json
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ME VOLVI LOCO\bin\Debug\net5.0\ME VOLVI LOCO.runtimeconfig.dev.json
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ME VOLVI LOCO\bin\Debug\net5.0\ME VOLVI LOCO.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ME VOLVI LOCO\bin\Debug\net5.0\ref\ME VOLVI LOCO.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ME VOLVI LOCO\bin\Debug\net5.0\ME VOLVI LOCO.pdb
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ME VOLVI LOCO\obj\Debug\net5.0\ME VOLVI LOCO.csproj.AssemblyReference.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ME VOLVI LOCO\obj\Debug\net5.0\ME VOLVI LOCO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ME VOLVI LOCO\obj\Debug\net5.0\ME VOLVI LOCO.AssemblyInfoInputs.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ME VOLVI LOCO\obj\Debug\net5.0\ME VOLVI LOCO.AssemblyInfo.cs
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ME VOLVI LOCO\obj\Debug\net5.0\ME VOLVI LOCO.csproj.CoreCompileInputs.cache
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ME VOLVI LOCO\obj\Debug\net5.0\ME VOLVI LOCO.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ME VOLVI LOCO\obj\Debug\net5.0\ref\ME VOLVI LOCO.dll
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ME VOLVI LOCO\obj\Debug\net5.0\ME VOLVI LOCO.pdb
+C:\Users\jerob\source\repos\Granadillo.Jeronimo\ME VOLVI LOCO\obj\Debug\net5.0\ME VOLVI LOCO.genruntimeconfig.cache
