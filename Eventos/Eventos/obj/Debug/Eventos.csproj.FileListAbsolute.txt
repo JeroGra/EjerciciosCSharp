@@ -1,0 +1,27 @@
+C:\Users\Facundo\source\repos\Eventos 2021\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\Facundo\source\repos\Eventos 2021\Eventos\bin\Debug\Eventos.exe
+C:\Users\Facundo\source\repos\Eventos 2021\Eventos\bin\Debug\Eventos.pdb
+C:\Users\Facundo\source\repos\Eventos 2021\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\source\repos\Eventos 2021\Eventos\obj\Debug\Eventos.exe
+C:\Users\Facundo\source\repos\Eventos 2021\Eventos\obj\Debug\Eventos.pdb
+C:\Users\Facundo\source\repos\Eventos 2021\Eventos\obj\Debug\Eventos.csprojAssemblyReference.cache
+C:\Users\Facundo\source\repos\Eventos 2021\Eventos\obj\Debug\Eventos.Form1.resources
+C:\Users\Facundo\source\repos\Eventos 2021\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\Facundo\Desktop\Eventos 2021\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\Facundo\Desktop\Eventos 2021\Eventos\bin\Debug\Eventos.exe
+C:\Users\Facundo\Desktop\Eventos 2021\Eventos\bin\Debug\Eventos.pdb
+C:\Users\Facundo\Desktop\Eventos 2021\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\Facundo\Desktop\Eventos 2021\Eventos\obj\Debug\Eventos.Form1.resources
+C:\Users\Facundo\Desktop\Eventos 2021\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\Facundo\Desktop\Eventos 2021\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Desktop\Eventos 2021\Eventos\obj\Debug\Eventos.exe
+C:\Users\Facundo\Desktop\Eventos 2021\Eventos\obj\Debug\Eventos.pdb
+C:\Users\Facundo\Desktop\Clases Lab y Prog 2\Eventos\Eventos\bin\Debug\Eventos.exe.config
+C:\Users\Facundo\Desktop\Clases Lab y Prog 2\Eventos\Eventos\bin\Debug\Eventos.exe
+C:\Users\Facundo\Desktop\Clases Lab y Prog 2\Eventos\Eventos\bin\Debug\Eventos.pdb
+C:\Users\Facundo\Desktop\Clases Lab y Prog 2\Eventos\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Users\Facundo\Desktop\Clases Lab y Prog 2\Eventos\Eventos\obj\Debug\Eventos.Form1.resources
+C:\Users\Facundo\Desktop\Clases Lab y Prog 2\Eventos\Eventos\obj\Debug\Eventos.csproj.GenerateResource.cache
+C:\Users\Facundo\Desktop\Clases Lab y Prog 2\Eventos\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\Facundo\Desktop\Clases Lab y Prog 2\Eventos\Eventos\obj\Debug\Eventos.exe
+C:\Users\Facundo\Desktop\Clases Lab y Prog 2\Eventos\Eventos\obj\Debug\Eventos.pdb
